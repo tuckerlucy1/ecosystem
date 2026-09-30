@@ -10,6 +10,6 @@ setuptools.setup(
     description="demo-impl",
     long_description="",
     packages=setuptools.find_packages(),
-    install_requires=["pytest==6.2.4"],
+    install_requires=["pytest==9.0.3"],
     python_requires=">=3.6",
 )
